@@ -5,7 +5,10 @@ public class Exercises {
     public static void main(String[] args) {
 //        ucVeBeseBolunenEdedleriCapEt();
 //        sadeEdedleriCapEt(100);
-        palindromeEdedleriCapEt(500);
+//        palindromeEdedleriCapEt(500);
+         String s = "Salam, Java!";
+         s += " Salam, Java!";
+         System.out.println(s);
     }
 
     public static void ucVeBeseBolunenEdedleriCapEt() {
